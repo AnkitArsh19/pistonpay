@@ -1,0 +1,13 @@
+spring.application.name=pistonpay-backend
+server.port=8080
+server.servlet.context-path=/api
+
+spring.datasource.url=jdbc:postgresql://localhost:5433/pistonpay
+spring.datasource.username=postgres
+spring.datasource.password=your_database_password_here
+
+spring.jpa.hibernate.ddl-auto=create
+spring.jpa.show-sql=false
+
+jwt.secret=your_super_secret_jwt_key_here_change_this
+jwt.expiration=86400000
