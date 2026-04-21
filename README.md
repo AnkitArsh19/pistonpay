@@ -4,7 +4,7 @@ PistonPay is a robust car rental billing system developed as a project for the I
 
 ## Technologies Used
 
-* **Backend**: Java 21, Spring Boot, Spring Security (JWT), Spring Data JPA
+* **Backend**: Java 25, Spring Boot, Spring Security (JWT), Spring Data JPA
 * **Database**: PostgreSQL
 * **Frontend**: React, Vite, Axios
 * **Architecture**: RESTful APIs utilizing Java Records for Data Transfer Objects (DTOs)
@@ -20,7 +20,7 @@ PistonPay is a robust car rental billing system developed as a project for the I
 ## Getting Started
 
 ### Prerequisites
-* Java 21+
+* Java 25+
 * Node.js 18+
 * PostgreSQL Database
 
